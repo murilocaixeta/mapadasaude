@@ -32,16 +32,37 @@
 
 ---
 
-#### Interface
-
-##### Ferramentas de navegação
+#### Ferramentas de navegação
 
 ![Barra de Navegação](assets/image/barranavegacao.png)
 
-- 1- Mapa de referência: Apresenta uma miniatura de um mapa geral identificando a localização da visualização atual
-- 2- Grade de coordenadas: Inclui uma grade de coordenadas para referência de navegação
-- 3- Zoom: Possibilita aproximar em uma localidade a partir da seleção de uma localização na tela
-- 4- Enquadramento inicial: retornar para o zoom e localização inicial do mapa
+- **1 - Mapa de referência:** Apresenta uma miniatura de um mapa geral identificando a localização da visualização atual
+- **2 - Grade de coordenadas:** Inclui uma grade de coordenadas para referência de navegação
+
++++
+
+#### Ferramentas de navegação
+
+![Barra de Navegação](assets/image/barranavegacao.png)
+
+- **3 - Zoom:** Possibilita aproximar em uma localidade a partir da seleção de uma localização na tela
+- **4 - Enquadramento inicial:** retornar para o zoom e localização inicial do mapa
+
+---
+
+#### Menu Lateral
+
+![Menu Lateral](assets/image/menulateral.png)
+
+- **1 -** Recolhe e abre o menu
+- **2 -** Define a Região de Estudo a partir de regionalizações político-administrativas, condições sociossanitárias e geometrias inseridas no mapa. A Região de Estudo definida servirá para filtrar as camadas de Estabelecimentos de Saúde e Indicadores do MGDI.
+
++++
+
+![Menu Lateral](assets/image/menulateral.png)
+
+- **3 -** Apresenta as camadas incluídas no mapa e o possibilita a inclusão de novas camadas a partir de um catálogo
+- **4 -** Apresenta as opções de mapas de fundo para personalização da visualização das camadas 
 
 ---
 ## Links e suporte
